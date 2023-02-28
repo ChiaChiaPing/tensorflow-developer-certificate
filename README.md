@@ -1,1 +1,24 @@
-# tensorflow-developer-certificate
+# Tensorflow Development Notes.
+
+## Introduction:
+Record the some important notes in the tensorflow development. 
+
+## Scope
+- Tensorflow Fundamental
+- Nueral Network Regression
+- Nueral Network Classification
+- Convolutional Neural Network
+- Transfeer Learning
+- Natural Language Proprocessing
+- TimeSeries 
+- Use Cases:
+  - Food Vision 101
+  - Skimlit
+
+## Environment
+Jupyter Notebook, Google Colab, GPU
+
+
+## Tensorflow developer Certificates:
+https://www.credential.net/7cee53bc-81c6-4447-8425-c368fbf9a328
+
