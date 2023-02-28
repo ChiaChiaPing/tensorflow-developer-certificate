@@ -8,9 +8,9 @@ Record the some important notes in the tensorflow development.
 - Nueral Network Regression
 - Nueral Network Classification
 - Convolutional Neural Network
-- Transfeer Learning
+- Transfer Learning
 - Natural Language Processing
-- TimeSeries 
+- Time Series 
 - Use Cases:
   - Food Vision 101
   - Skimlit
