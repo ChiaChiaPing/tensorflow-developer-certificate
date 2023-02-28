@@ -1,4 +1,4 @@
-# Tensorflow Development Notes.
+# Tensorflow Development Project
 
 ## Introduction:
 Record the some important notes in the tensorflow development. 
@@ -16,7 +16,7 @@ Record the some important notes in the tensorflow development.
   - Skimlit
 
 ## Environment
-Jupyter Notebook, Google Colab, GPU
+Jupyter Notebook, Google Colab
 
 
 ## Tensorflow developer Certificates:
